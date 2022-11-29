@@ -36,7 +36,6 @@ public class Main {
             System.out.println(friend);
             friend = friend / 3;
             System.out.println(friend);
-
         }
 
         public static void task5() {
@@ -48,7 +47,6 @@ public class Main {
             System.out.println(frog);
             frog = frog + 4;
             System.out.println(frog);
-
         }
         public static void task6to7() {
             var boxer1 = 78.2;
@@ -59,7 +57,6 @@ public class Main {
             System.out.println("Разница массы " + raznicaMassuMinus + " кг");
             var raznicaMassuOstatoc = boxer2 % boxer1;
             System.out.println("Разница массы " + raznicaMassuOstatoc + " кг");
-
         }
 
         public static void task8() {
@@ -70,7 +67,6 @@ public class Main {
             var newEmployee = totalEmployees + 94;
             var newWorkTime = allWorkTime / newEmployee;
             System.out.println("Если в компании работает " + newEmployee + " человек, то всего " + newWorkTime + " часа работы может быть поделено между сотрудниками");
-
         }
 
 
